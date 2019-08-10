@@ -19,5 +19,5 @@ def get_dominant_color(image):
             dominant_color = (r,g,b)
     return dominant_color
 
-im = Image.open("../data/tomatoRed.png")
-print(get_dominant_color(im))
+#image = Image.open("../data/tomatoRed.png")
+#print(get_dominant_color(image))
